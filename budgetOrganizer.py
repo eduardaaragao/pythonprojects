@@ -1,4 +1,7 @@
-# This script in Python takes in the budget you have
+# How to use this program
+# 1 - Type in the budget you have in total
+# 2 - Type in the months in total for the budget
+# 3 - Type in how many categories you would like to divide your budget in [Example:  (food, rent, college) 3 categories]
 
 print("-=-=-=-=-=-=-=-= Budget Organizer -=-=-=-=-=-=-=-=")
 
