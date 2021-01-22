@@ -2,7 +2,7 @@ from random import randint
 from time import sleep
 
 # Author: Maria Eduarda
-# Description: This is a program developed in Python to simulate Rock, Paper and Scissors game. Hope you like it!
+# Description: This is a program that simulates Rock, Paper and Scissors game. Hope you like it!
 print('''Your options:
 
 [0] Rock
